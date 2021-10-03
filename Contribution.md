@@ -1,0 +1,3 @@
+PULL
+COMMIT
+PUSH
