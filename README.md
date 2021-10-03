@@ -51,7 +51,3 @@ $ git commit -m "<Commit MESSAGE>"
 $ git push origin <new_branch>
 ```
 Go and Generate your first Pull request from Github
-=======
-# Algorithms
-DS and Algo
->>>>>>> 9ab9e24869bfe0d8db69604bd610f57a0520f58b
