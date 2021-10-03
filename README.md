@@ -20,12 +20,13 @@ Copying DSA Code from internet and sending a PR to get a free T-shirt is not all
 <hr>
 
 This is a beginners repository for anyone wishing to contribute to HacktoberFest 2021
-
+```
   - Fork the repository
   - Clone your fork and Create a new branch
   - Add your program in specific language folder
     - Example : java/MyCode.java 
   - Send your Pull Request
+  ```
 
 ### Important Note:
 Please commit your files in the respective folders. 
