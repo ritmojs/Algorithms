@@ -6,6 +6,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/ritmojs/Algorithms?style=flat-square)
 ![GitHub repo file count](https://img.shields.io/github/directory-file-count/ritmojs/Algorithms?style=flat-square)
 ![Lines of code](https://img.shields.io/tokei/lines/github/ritmojs/Algorithms?style=flat-square)
+![GitHub language count](https://img.shields.io/github/languages/count/ritmojs/Algorithms?style=flat-square)
 ![GitHub contributors](https://img.shields.io/github/contributors/ritmojs/Algorithms?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ritmojs/Algorithms?style=flat-square)
 
@@ -19,12 +20,13 @@ Copying DSA Code from internet and sending a PR to get a free T-shirt is not all
 <hr>
 
 This is a beginners repository for anyone wishing to contribute to HacktoberFest 2021
-
+```
   - Fork the repository
   - Clone your fork and Create a new branch
   - Add your program in specific language folder
     - Example : java/MyCode.java 
   - Send your Pull Request
+  ```
 
 ### Important Note:
 Please commit your files in the respective folders. 
