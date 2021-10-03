@@ -6,7 +6,6 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/ritmojs/Algorithms?style=flat-square)
 ![GitHub repo file count](https://img.shields.io/github/directory-file-count/ritmojs/Algorithms?style=flat-square)
 ![Lines of code](https://img.shields.io/tokei/lines/github/ritmojs/Algorithms?style=flat-square)
-![GitHub language count](https://img.shields.io/github/languages/count/ritmojs/Algorithms?style=flat-square)
 ![GitHub contributors](https://img.shields.io/github/contributors/ritmojs/Algorithms?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ritmojs/Algorithms?style=flat-square)
 
