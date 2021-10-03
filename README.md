@@ -1,14 +1,14 @@
 # HacktoberFest 2021
 
 ## Status
-![GitHub forks](https://img.shields.io/github/forks/viralvaghela/HacktoberFest_2021?label=Fork&style=flat-square)
-![GitHub Repo stars](https://img.shields.io/github/stars/viralvaghela/HacktoberFest_2021?style=flat-square)
-![GitHub repo size](https://img.shields.io/github/repo-size/viralvaghela/HacktoberFest_2021?style=flat-square)
-![GitHub repo file count](https://img.shields.io/github/directory-file-count/viralvaghela/HacktoberFest_2021?style=flat-square)
-![Lines of code](https://img.shields.io/tokei/lines/github/viralvaghela/HacktoberFest_2021?style=flat-square)
-![GitHub language count](https://img.shields.io/github/languages/count/viralvaghela/HacktoberFest_2021?style=flat-square)
-![GitHub contributors](https://img.shields.io/github/contributors/viralvaghela/HacktoberFest_2021?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/viralvaghela/HacktoberFest_2021?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/ritmojs/Algorithms?label=Fork&style=flat-square)
+![GitHub Repo stars](https://img.shields.io/github/stars/ritmojs/Algorithms?style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/ritmojs/Algorithms?style=flat-square)
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/ritmojs/Algorithms?style=flat-square)
+![Lines of code](https://img.shields.io/tokei/lines/github/ritmojs/Algorithms?style=flat-square)
+![GitHub language count](https://img.shields.io/github/languages/count/ritmojs/Algorithms?style=flat-square)
+![GitHub contributors](https://img.shields.io/github/contributors/ritmojs/Algorithms?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/ritmojs/Algorithms?style=flat-square)
 
 
 
