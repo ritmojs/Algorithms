@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # HacktoberFest 2021
 
 ## Status
