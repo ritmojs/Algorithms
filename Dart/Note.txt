@@ -1,0 +1,8 @@
+Add basic Apps Like
+-->Login Screen
+-->Sign Up Screen
+-->Login Using Gmail
+-->Login using Facebook
+-->Splash Screen
+-->Etc...
+-----------Please Add Comments In the Code-----------------

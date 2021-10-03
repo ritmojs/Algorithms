@@ -31,6 +31,10 @@ This is a beginners repository for anyone wishing to contribute to HacktoberFest
 Please commit your files in the respective folders. 
 
 Ex:- `.java` files must go in `java/` folder and others in `misc` folder.
+```
+Use Comments If Possible
+
+```
 
 ### Process
 < Added Unique program >  // please change this accordingly
