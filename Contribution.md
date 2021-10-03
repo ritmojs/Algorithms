@@ -1,3 +1,0 @@
-PULL
-COMMIT
-PUSH
